@@ -5,7 +5,8 @@ A soft and heartwarming compliment website built with Next.js and Framer Motion 
 ---
 
 > ⚠️ This is a **free version**, so some features like background music, animations and cuteness meter screen are not included. Premium version includes full features, music, animations & everything with guide & support.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/compliment-site).
+> You can **buy the premium code** from my store [here]
+> (https://compliment-site-sigma.vercel.app/).
 ---
 
 ## 🛠 Tech Stack
@@ -42,16 +43,12 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/abhiramboddula)  
 Thank you for being here! 🫶  
 Made with emotions by **Anuj** – _@anujbuilds_
 
